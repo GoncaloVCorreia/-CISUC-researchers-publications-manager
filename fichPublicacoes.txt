@@ -1,0 +1,20 @@
+Artigo de Conferencia#Samuel Andrade#TituloC 1#abcd#2004#100#ResumoC 1#Porto#ConfC1#19/05/2020
+Artigo de Conferencia#Goncalo Correia#TituloC 2#defg#2010#200#ResumoC 2#Coimbra#ConfC2#20/08/2023
+Artigo de Conferencia#Joana Martins#TituloC 3#hijk#2008#150#ResumoC 3#Lisboa#ConfC3#11/11/2025
+Artigo de Conferencia#Joao Meireles#TituloC 4#lmno#2018#225#ResumoC 4#Braga#ConfC4#12/03/2021
+Artigo de Conferencia#Pedro Araujo#TituloC 5#pqrt#2017#520#ResumoC 5#Faro#ConfC5#10/05/2022
+Artigo de Revista#Joana Martins#TituloR 1#qwer#2001#1115#ResumoR 1#1#R1#12/05/2020
+Artigo de Revista#Joao Meireles#TituloR 2#asdf#209#500#ResumoR 2#2#R2#10/08/2023
+Artigo de Revista#Samuel Andrade#TituloR 3#zxcv#2018#650#ResumoR 3#3#R3#30/11/2025
+Artigo de Revista#Ana Coutinho#TituloR 4#fghj#2014#1245#ResumoR 4#4#R4#22/03/2021
+Artigo de Revista#Maria Afonso#TituloR 5#vbnm#2013#400#ResumoR 5#5#R5#27/05/2022
+Capitulo#Miguel Teles#TituloCap 1#qazw#ResumoCap1#2012#5000#EditoraCap1 ISBNCAp1#Capitulo1#1#10
+Capitulo#Goncalo Correia#TituloCap 2#wsxe#ResumoCap2#2014#5200#EditoraCap2 ISBNCap2#Capitulo2#2#20
+Capitulo#Joana Martins#TituloCap 3#edcr#ResumoCap3#2010#2210#EditoraCap3 ISBNCap3#Capitulo3#3#30
+Capitulo#Samuel Andrade#TituloCap 4#tgby#ResumoCap4#2019#5310#EditoraCap4 ISBNCap4#Capitulo4#4#40
+Capitulo#Joao Meireles#TituloCap 5#ujmi#ResumoCap5#2002#10260#EditoraCap5 ISBNCap5#Capitulo5#5#50
+Livro artigo#Ana Coutinho#TituloLA 1#lkjh#ResumoLA1#2011#7800#EditoraLA1 ISBNLA1#ConfLA1#3
+Livro artigo#Samuel Andrade#TituloLA 2#ghdj#ResumoLA2#2014#7800#EditoraLA2 ISBNLA2#ConfLA2#2
+Livro artigo#Joana Martins#TituloLA 3#asjv#ResumoLA3#2011#7000#EditoraLA3 ISBNLA3#ConfLA3#2
+Livro artigo#Maria Afonso#TituloLA 4#nsin#ResumoLA4#2012#500#EditoraLA4 ISBNLA4#ConfLA4#3
+Livro artigo#Goncalo Correia#TituloLA 5#caoi#ResumoLA5#2018#2000#EditoraLA5 ISBNLA5#ConfLA5#4

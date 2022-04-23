@@ -1,0 +1,6 @@
+AC#Adaptive Computation#Jorge Henriques
+CMS#Cognitive and Media Systems#Penousal Machado
+ECOS#Evolutionary and Complex Systems#Nuno Lourenço
+IS#Information Systems#Licínio Roque
+LCT#Communications and Telematics#Paulo Simões
+SSE#Software and Systems Engineering#Henrique Madeira

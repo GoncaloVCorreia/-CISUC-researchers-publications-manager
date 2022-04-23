@@ -1,0 +1,10 @@
+MembroEfetivo#Samuel Andrade#samuel@gmail.com#AC#1234#914327428
+MembroEfetivo#Andre Antunes#andre@gmail.com#CMS#2345#964367773
+MembroEfetivo#Mariana Silva#mariana@gmail.com#ECOS#3456#922526589
+MembroEfetivo#Joao Meireles#joao@gmail.com#IS#4567#913425385
+MembroEfetivo#Goncalo Correia#goncalo@gmail.com#LCT#5678#924578491
+Estudante#Pedro Araujo#pedro@gmail.com#AC#Tese de IPRP#5/02/2022#Samuel Andrade
+Estudante#Miguel Teles#miguel@gmail.com#CMS#Tese de POO#6/03/2023#Andre Antunes
+Estudante#Ana Coutinho#ana@gmail.com#ECOS#Tese de PPP#7/04/2024#Mariana Silva
+Estudante#Maria Afonso#maria@gmail.com#IS#Tese de SO#8/05/2021#Joao Meireles
+Estudante#Joana Martins#joana@gmail.com#LCT#Tese de TC#9/06/2025#Goncalo Correia
