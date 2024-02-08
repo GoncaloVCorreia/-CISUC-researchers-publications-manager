@@ -26,6 +26,10 @@ This project aims to develop a Java application for managing the publications of
 - Adheres to Java naming conventions and avoids redundancy in data organization.
 - Utilizes UML for planning the project structure.
 
+### Environment
+
+Clion
+
 ## Run
 javac -Xlint *.java
 
