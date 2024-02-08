@@ -28,7 +28,7 @@ This project aims to develop a Java application for managing the publications of
 
 ### Environment
 
-Clion
+Apache NetBeans
 
 ## Run
 javac -Xlint *.java
