@@ -31,6 +31,8 @@ This project aims to develop a Java application for managing the publications of
 Apache NetBeans
 
 ## Run
-```javac -Xlint *.java
+```
+javac -Xlint *.java
+java -cp . MainCISUC
 
-java -cp . MainCISUC ```
+```
