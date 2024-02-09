@@ -54,7 +54,7 @@ class Gere {
         } else {
 
             System.out.println("Ficheiro Objeto Grupo Investigacao não existe. Ficheiro de Texto correspondente irá ser usado");
-            readFilesTxt("fichGruposInv.txt");
+            readFilesTxt("db/fichGruposInv.txt");
         }
         //Se o ficheiro dos Investigadores objeto existir faz-se a leitura correspondente
         if (foI.exists() && foI.isFile()) {
@@ -64,7 +64,7 @@ class Gere {
         //Caso nao haja ficheiro objeto dos Investigadores e usado o ficheiro de texto das diciplinas
         } else {
             System.out.println("Ficheiro Objeto Investigadores não existe. Ficheiro de Texto correspondente irá ser usado");
-            readFilesTxt("fichInvestigadores.txt");
+            readFilesTxt("db/fichInvestigadores.txt");
         }
         //Se o ficheiro das Publicaceos objeto existir faz-se a leitura correspondente
         if (foP.exists() && foP.isFile()) {
@@ -74,7 +74,7 @@ class Gere {
         //Caso nao haja ficheiro objeto das Publicacoes e usado o ficheiro de texto das diciplinas
         } else {
             System.out.println("Ficheiro Objeto Publicacoes não existe. Ficheiro de Texto correspondente irá ser usado");
-            readFilesTxt("fichPublicacoes.txt");
+            readFilesTxt("db/fichPublicacoes.txt");
         }
 
     }
