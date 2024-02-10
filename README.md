@@ -1,4 +1,5 @@
-# -POO-Project
+# CISUC researchers publications manager
+
 Object Oriented Programming
 
 ## Project Overview
